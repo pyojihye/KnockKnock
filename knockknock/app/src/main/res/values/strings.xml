@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Knock Knock</string>
+    <string name="registering_message_ready">InstanceID 토큰 가져오기</string>
+    <string name="registering_message_generating">InstanceID 토큰 생성중...</string>
+    <string name="registering_message_complete">완료!</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="now_pm">Now Fine Dust</string>
+    <string name="knock">Knock</string>
+
+</resources>
